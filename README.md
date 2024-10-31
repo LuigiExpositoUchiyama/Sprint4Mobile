@@ -8,7 +8,7 @@ Luigi Exposito Uchiyama - 99520</br>
 
 # Backend e Login
 
-https://github.com/Luigi-Exposito-Uchiyama/Backend</br> 
+https://github.com/LuigiExpositoUchiyama/API</br> 
 
 usuario: luigi</br> 
 senha: 123</br> 
